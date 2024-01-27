@@ -35,7 +35,7 @@ npm init adonis-ts-app@latest csr-adonis-inertia-react
 ## 2. Install & configure Inertia JS provider for AdonisJS
 
 ```
-npm i @eidellev/inertia-adonisjs
+npm i @eidellev/inertia-adonisjs@7.4.1
 
 node ace configure @eidellev/inertia-adonisjs
 
